@@ -1,6 +1,8 @@
 ## Hi there 👋
-I‘m currently a master student in University of Edinburgh
-I'm willing to make contribution
+I‘m currently a master student in University of Edinburgh 
+
+I'm willing to make contribution 
+
 I’m intrested in LLM agent
 <!--
 **zzy2002/zzy2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
