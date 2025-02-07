@@ -1,7 +1,7 @@
 ## Hi there 👋
 I‘m currently a Master student in University of Edinburgh 
 
-I’m intrested in building LLM agents 
+I’m intrested in agents 
 
 I'm happy to make contributions
 
