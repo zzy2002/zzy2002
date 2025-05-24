@@ -1,9 +1,7 @@
 ## Hi there 👋
-I‘m currently a Master student in University of Edinburgh 
+I‘m ZZY, currently a Master student in the University of Edinburgh 
 
-I’m intrested in Inference acceleration and Agent applications
-
-I think the cost and speed limit the development of Agents.
+I’m intrested in Agent applications. I think the cost and speed is the limit of Agents.
 
 
 <!--
